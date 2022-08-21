@@ -1,14 +1,11 @@
-👋 Hi, I'm Aleksandr
-
-Ever since my childhood, I loved everything about computers. I always wanted to learn how can I use a computer in my needs, which got me introduced to software programming. It all started with game servers and simple websites and now I am capable of building complex systems.  I am always ready to push myself above my limits and give the best possible results.
+<h1 align="center">Hi 👋, I'm Aleksandr</h1>
+<h3 align="center">Passionate Golang software engineer, who is very excited about learning new things</h3>
+<h4 align="center">About me</h4>
+<h5 align="center">Ever since my childhood, I loved everything about computers. I always wanted to learn how can I use a computer in my needs, which got me introduced to software programming. It all started with game servers and simple websites and now I am capable of building complex systems. I am always ready to push myself above my limits and give the best possible results.
 
 Currently, I am a full-time employed at an Estonian fintech start-up company named Wallester AS as a Lead Software Engineer. Our main technology stack includes working daily with Go(lang), PostgreSQL, Protocol Buffers, gRPC, JSON REST API, and AWS infrastructure. My responsibilities include onboarding new team members, mentoring people, building clean architecture systems, implementing new features, writing documentation, bug-fixing, covering code with tests and reporting to management, as well as handling technical implementation of 3rd party partner's integrations.
 
-In my free time, I like to work on my pet projects, learn new technologies, read books, or DJ :)
-
-
-<h1 align="center">Hi 👋, I'm Aleksandr</h1>
-<h3 align="center">Passionate Golang software engineer, who is very excited about learning new things</h3>
+In my free time, I like to work on my pet projects, learn new technologies, read books, or DJ :)</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxxyg33n&label=Profile%20views&color=0e75b6&style=flat" alt="oxxyg33n" /> </p>
 
@@ -32,8 +29,10 @@ In my free time, I like to work on my pet projects, learn new technologies, read
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxxyg33n&show_icons=true&theme=dark&locale=en&layout=compact" alt="oxxyg33n" /></p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxxyg33n&show_icons=true&theme=dark&locale=en" alt="oxxyg33n" /></p>
 
+<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxxyg33n&theme=dark" alt="oxxyg33n" /></p>
-
-
